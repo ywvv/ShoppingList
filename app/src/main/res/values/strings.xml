@@ -6,4 +6,6 @@
     <string name="hint_name">Name:</string>
     <string name="hint_count">Count:</string>
     <string name="save">Save</string>
+    <string name="error_input_name">Invalid name</string>
+    <string name="error_input_count">Invalid count</string>
 </resources>
