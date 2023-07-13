@@ -3,4 +3,7 @@
     <string name="shop_item_text">Серветки</string>
     <string name="shop_item_count">1</string>
     <string name="button_description">Add new shop item</string>
+    <string name="hint_name">Name:</string>
+    <string name="hint_count">Count:</string>
+    <string name="save">Save</string>
 </resources>
